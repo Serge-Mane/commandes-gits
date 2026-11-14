@@ -28,3 +28,6 @@
 
 ## git checkout -b feature/nom_de_la_branche
 - Se redirriger à une branche s'il n'existe pas je la creé
+
+## git pull
+- Permet de récupérer les modifications faites en ligne pour les ramener en locale en se positionnant sur la branche  
