@@ -10,3 +10,11 @@ Permet d'ajouter un fichier ou une modiffication dans le stagging
 
 ## git commit 
 Permet d'enregistrer en locale les modiffications
+
+## git status 
+permet de veriffier le statut du répertoire
+permet de lister les moddifications à traiter
+
+## 1. git log
+## 2. git log --oneline
+permet de lister l'historique du répertoire
