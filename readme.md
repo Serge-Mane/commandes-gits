@@ -20,3 +20,12 @@ permet de lister les moddifications en local
 
 ## git log --oneline
 permet de lister les moddifications pousser en ligne
+
+## git branch feature/nom_de_la_branche
+creation de la branche
+
+## git checkout feature/nom_de_la_branche
+se redirriger à une branche
+
+## git checkout -b feature/nom_de_la_branche
+se redirriger à une branche s'il n'existe pas je la creé
